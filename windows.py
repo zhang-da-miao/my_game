@@ -13,5 +13,5 @@ def run_game():
                 sys.exit()
         pygame.display.flip()
 
-
+print("hello world")
 run_game()
